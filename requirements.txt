@@ -1,9 +1,0 @@
-﻿google-genai>=1.10.0
-gspread>=6.1.2
-google-auth>=2.30.0
-google-api-python-client>=2.133.0
-apscheduler>=3.10.4
-flask>=3.0.0
-beautifulsoup4>=4.12.3
-requests>=2.32.3
-pytz>=2024.1
